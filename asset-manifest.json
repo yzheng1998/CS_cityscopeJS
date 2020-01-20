@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CS_cityscopeJS/static/css/main.bc180b82.chunk.css",
+    "main.js": "/CS_cityscopeJS/static/js/main.ab696e4c.chunk.js",
+    "main.js.map": "/CS_cityscopeJS/static/js/main.ab696e4c.chunk.js.map",
+    "runtime-main.js": "/CS_cityscopeJS/static/js/runtime-main.98995e76.js",
+    "runtime-main.js.map": "/CS_cityscopeJS/static/js/runtime-main.98995e76.js.map",
+    "static/css/2.7a834bf8.chunk.css": "/CS_cityscopeJS/static/css/2.7a834bf8.chunk.css",
+    "static/js/2.aa1fcdef.chunk.js": "/CS_cityscopeJS/static/js/2.aa1fcdef.chunk.js",
+    "static/js/2.aa1fcdef.chunk.js.map": "/CS_cityscopeJS/static/js/2.aa1fcdef.chunk.js.map",
+    "index.html": "/CS_cityscopeJS/index.html",
+    "precache-manifest.4cf026b8f48a19550cc7da27db31bb98.js": "/CS_cityscopeJS/precache-manifest.4cf026b8f48a19550cc7da27db31bb98.js",
+    "service-worker.js": "/CS_cityscopeJS/service-worker.js",
+    "static/css/2.7a834bf8.chunk.css.map": "/CS_cityscopeJS/static/css/2.7a834bf8.chunk.css.map",
+    "static/css/main.bc180b82.chunk.css.map": "/CS_cityscopeJS/static/css/main.bc180b82.chunk.css.map",
+    "static/js/2.aa1fcdef.chunk.js.LICENSE": "/CS_cityscopeJS/static/js/2.aa1fcdef.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98995e76.js",
+    "static/css/2.7a834bf8.chunk.css",
+    "static/js/2.aa1fcdef.chunk.js",
+    "static/css/main.bc180b82.chunk.css",
+    "static/js/main.ab696e4c.chunk.js"
+  ]
+}
