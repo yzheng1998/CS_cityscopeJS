@@ -48,7 +48,7 @@ export default function FABMenu(props) {
             </Fab>
             <Fab
                 className={classes.templatesButton}
-                onClick={handleToggle("TEMPLATES")}
+                onClick={handleToggle("SCENARIOS")}
                 style={{ backgroundColor: "#1D1F21" }}
             >
                 <InsertDriveFileIcon style={{ color: "FFF" }} />

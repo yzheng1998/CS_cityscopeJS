@@ -4,6 +4,7 @@ import { listenToMenuUI } from "../../redux/actions";
 import EditMenu from "./EditMenu";
 import TogglesMenu from "./TogglesMenu";
 import FABMenu from "./FABMenu";
+import ScenariosMenu from "./ScenariosMenu";
 
 function MenuContainer() {
     const menuState = useSelector(state => state.MENU);
@@ -39,6 +40,7 @@ function MenuContainer() {
                 handleToggle={handleToggle}
             />
             <FABMenu toggleDrawer={toggleDrawer} handleToggle={handleToggle} />
+            <ScenariosMenu handleToggle={handleToggle} />
             {showEditMenu && <EditMenu key={"EDIT"} />}
         </div>
     );
